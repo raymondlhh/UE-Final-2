@@ -1,0 +1,167 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 8192 px/m</p><p><strong>Scan Area:</strong> 1x1 m</p><p><strong>Maps:</strong> Cavity AO Gloss Basecolor Specular Displacement Normal Bump Roughness</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2024-10-19T19:49:07.246141Z",
+		"listingType": "material",
+		"media": "https://media.fab.com/image_previews/gallery_images/afd4d523-f9f5-42bb-ba01-9a4bdd195e88/19540211-7aba-4990-988a-ea3875ccb102.jpeg",
+		"publishedAt": "2024-10-13T18:26:46.770877Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/85037e18-6270-4db2-a9f8-d0e8b9626e98/66e561a1-da7c-43a9-a8e2-35711219786f.jpeg",
+		"title": "Mossy Rocky Ground",
+		"uid": "a894ba81-d242-42bf-abe5-592a2492b92a",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Lake",
+				"slug": "lake",
+				"uid": "0a67d7dd-743f-4a17-803a-f65b35bf28e7"
+			},
+			{
+				"name": "Ground",
+				"slug": "ground",
+				"uid": "3baab37a-91ee-4554-acbb-3a54f62d165e"
+			},
+			{
+				"name": "Mossy",
+				"slug": "mossy",
+				"uid": "4a5cbc12-00ad-42c8-b155-1b33654ad18d"
+			},
+			{
+				"name": "Body",
+				"slug": "body",
+				"uid": "4deaf630-1a6c-4543-a246-2275ce18fd33"
+			},
+			{
+				"name": "Marsh",
+				"slug": "marsh",
+				"uid": "5451c85b-9a47-4da4-a24e-3f7f04d56cfa"
+			},
+			{
+				"name": "Creek",
+				"slug": "creek",
+				"uid": "5a13d28f-c096-4b21-a04e-410279009e4c"
+			},
+			{
+				"name": "Moss",
+				"slug": "moss",
+				"uid": "78cc3090-9528-420a-9047-2ebe749633d2"
+			},
+			{
+				"name": "Dull",
+				"slug": "dull",
+				"uid": "795ddc5a-1565-4711-84be-09883cb17504"
+			},
+			{
+				"name": "Grit",
+				"slug": "grit",
+				"uid": "815da710-a317-434f-92ef-01a2486f1bf9"
+			},
+			{
+				"name": "Nature",
+				"slug": "nature",
+				"uid": "8d858676-26d9-4329-b3f7-0b3a4107b7f9"
+			},
+			{
+				"name": "Flat",
+				"slug": "flat",
+				"uid": "a66b98c7-b6e6-4728-aa97-af89a2638a70"
+			},
+			{
+				"name": "Forest",
+				"slug": "forest",
+				"uid": "ce0abda8-968f-4046-967f-d7ff632d84a2"
+			},
+			{
+				"name": "Debris",
+				"slug": "debris",
+				"uid": "e130b2cf-e5e2-4999-931a-1b82b4c69ee9"
+			},
+			{
+				"name": "Eroded",
+				"slug": "eroded",
+				"uid": "f72affe7-88c4-4d72-8839-12b70804db6f"
+			},
+			{
+				"name": "Fungus",
+				"slug": "fungus",
+				"uid": "f73d0a4b-e03e-4ef6-ac0f-bd613e3e77e8"
+			}
+		],
+		"category":
+		{
+			"name": "Vegetation",
+			"path": "nature-terrain/vegetation",
+			"slug": "nature-terrain--vegetation",
+			"uid": "dcacfa12-657d-466f-96d0-abde253a9bf2"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Texture Set",
+					"groupName": "Material Formats",
+					"code": "texture-set",
+					"icon": "cube",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "47e9742d-6145-4c52-807d-a868571f3970",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.5",
+	"quality": "mid",
+	"format": "texture-set",
+	"fileId": "5b6c4c06-143e-4f82-944b-bec4e71ef9bc",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "47e9742d-6145-4c52-807d-a868571f3970",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}

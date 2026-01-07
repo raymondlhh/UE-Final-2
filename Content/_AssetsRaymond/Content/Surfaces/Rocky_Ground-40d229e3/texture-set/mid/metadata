@@ -1,0 +1,147 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 4096 px/m</p><p><strong>Scan Area:</strong> 2x2 m</p><p><strong>Maps:</strong> AO Gloss Displacement Cavity Roughness Normal Specular Basecolor Bump</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2024-10-19T14:46:04.935383Z",
+		"listingType": "material",
+		"media": "https://media.fab.com/image_previews/gallery_images/93afcc49-c6ef-46d1-b775-03073dd32d02/dfe0b103-ae34-419f-8d81-50087be911fd.jpeg",
+		"publishedAt": "2024-10-13T16:21:44.538207Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/1c63c1d5-c5f5-448f-8671-2e3f9534952e/b6e69032-b323-4492-8583-832709beb9bf.jpeg",
+		"title": "Rocky Ground",
+		"uid": "40d229e3-8084-467c-a851-c1db2dd98a75",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Rocky",
+				"slug": "rocky",
+				"uid": "043b758d-ca9a-4af6-9ac4-56167eccbdc0"
+			},
+			{
+				"name": "Quarry",
+				"slug": "quarry",
+				"uid": "169c32af-f080-4619-93b1-2f3e39a3efea"
+			},
+			{
+				"name": "Dusty",
+				"slug": "dusty",
+				"uid": "388f0e97-4571-44c2-bad6-59f46cde5a9d"
+			},
+			{
+				"name": "Ground",
+				"slug": "ground",
+				"uid": "3baab37a-91ee-4554-acbb-3a54f62d165e"
+			},
+			{
+				"name": "Dry",
+				"slug": "dry",
+				"uid": "57bdc10e-4b1d-405c-95ac-9acaf22d3618"
+			},
+			{
+				"name": "Desert",
+				"slug": "desert",
+				"uid": "63dcb670-a358-4a08-bc12-bdf050b93077"
+			},
+			{
+				"name": "Grit",
+				"slug": "grit",
+				"uid": "815da710-a317-434f-92ef-01a2486f1bf9"
+			},
+			{
+				"name": "Valley",
+				"slug": "valley",
+				"uid": "98085c8a-8594-452f-9894-0a525cdee693"
+			},
+			{
+				"name": "Rough",
+				"slug": "rough",
+				"uid": "abd824a5-384f-43b7-8e90-b4a5207bb0b3"
+			},
+			{
+				"name": "Gravel",
+				"slug": "gravel",
+				"uid": "dc28f194-84e6-4492-9f1b-6a0cf657474f"
+			},
+			{
+				"name": "Dust",
+				"slug": "dust",
+				"uid": "f8c8c0cd-a9e8-415f-9004-0e3a5e80c230"
+			}
+		],
+		"category":
+		{
+			"name": "Gravel",
+			"path": "nature-terrain/gravel",
+			"slug": "nature-terrain--gravel",
+			"uid": "d9583e6f-4ab2-405c-8474-0647275c9d6c"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Texture Set",
+					"groupName": "Material Formats",
+					"code": "texture-set",
+					"icon": "cube",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "3ecb1bfc-21e3-4786-833f-1f216ea7b8f3",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "mid",
+	"format": "texture-set",
+	"fileId": "bd7e5e51-726e-4c1e-ac9f-0ccfac1cd3cd",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "3ecb1bfc-21e3-4786-833f-1f216ea7b8f3",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}
